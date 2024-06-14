@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://portal.inspired.domains/$1"
+ }
+  ]
+}
